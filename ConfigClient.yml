@@ -1,0 +1,7 @@
+test:
+  a: String - Git - 默认 - yml 
+  b: true
+  d:
+    - 1
+    - 2
+    - 3
